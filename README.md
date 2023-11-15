@@ -91,29 +91,58 @@
 
 </div>
 
-##
-<h3><b><samp>Professional Development Certificates</samp></b></h3>
+## <p align="left"><h4 align="center"><samp> Professional Development Certificates 
+<img align="left" src="https://sun9-46.userapi.com/impg/bmMigch7J_ROpYgVp-ko6NDzaG1DXxZfQqMg5A/zYQ1kTmJzq4.jpg?size=721x512&quality=95&sign=0f79c8a7bd957a88f1a48d4822d03f88&c_uniq_tag=NLyfh0C1ETZON1qEve7pYVdzytWlIzty_vI1usyZuAA&type=album" width="31%"/>
 
-![Completed the course «Interactive course on the basics of programming»](https://sun9-46.userapi.com/impg/bmMigch7J_ROpYgVp-ko6NDzaG1DXxZfQqMg5A/zYQ1kTmJzq4.jpg?size=721x512&quality=95&sign=0f79c8a7bd957a88f1a48d4822d03f88&c_uniq_tag=NLyfh0C1ETZON1qEve7pYVdzytWlIzty_vI1usyZuAA&type=album)
-![Completed the course «GeekBrains Student Introductory Course»](https://sun9-80.userapi.com/impg/LNrQ2gMj4ZLbTRDXfmE47NgRJmugX493JBi-BA/f-V3QV52ktU.jpg?size=722x513&quality=95&sign=4813e8bbe1509363fa3c52f3f5da1346&c_uniq_tag=1S8Oxh43AFdMyrEg2y8EBF7RmyMj_WzfpShoqkBMRt4&type=album)
-![Completed the course «Swift Language»](https://sun9-25.userapi.com/impg/6S-V0GzMZHQvOMqNeu-_qzhKpRwYdRUO5k3Lcw/kn6qhCg6E7w.jpg?size=722x515&quality=95&sign=ccf606c772a7de6581ca9a5c3d5382a9&c_uniq_tag=tB4GIlOxkEfvU7Dr6-LilHsjEYjCFQ4btT6uQyull5o&type=album)
-![Completed the course «IOS application user interface»](https://sun9-66.userapi.com/impg/pjmsOiPsVrzQRWeovmA1O80MU5FN_KSi9dWTQQ/P0fOnwwYjtY.jpg?size=722x513&quality=95&sign=9f99ddcad4a72e630fc6a4ce3aed3df1&c_uniq_tag=g2xSwBsG7rprhvxkvfzQw2-txxTrDbdvOwmfOVZWzbU&type=album)
-![Completed the course «Client-server iOS-applications»](https://sun9-46.userapi.com/impg/bmMigch7J_ROpYgVp-ko6NDzaG1DXxZfQqMg5A/72qpkMRnSOE.jpg?size=721x512&quality=95&sign=7565f7da41629e5606539a60039ba460&c_uniq_tag=hUZ6yNQkqPgRasudqyD-Ys1wkF4wc36D9TIfqBIJ4ts&type=album)
-![Completed the course «Performance of iOS applications»](https://sun9-22.userapi.com/impg/-qciBJubjBTf9wN28BqwI7M973vfrN1axg-9ww/welMTOTXDuM.jpg?size=721x512&quality=95&sign=a3f7dd234a8a66275880fcfe53577535&c_uniq_tag=x2Oujg47l3mXMFaU-qf88QpvEinR3VNC_9a2sspPxMo&type=album)
-![Completed the course «Professional iOS-development on Swift»](https://sun9-56.userapi.com/impg/QC6_aOu-gLXsJXQSM2VBLWYyBmxFrWL9VhUpWg/K202dUgHzYw.jpg?size=722x513&quality=95&sign=51c4b0d4023f7b85ceb5bcc1b780dbc1&c_uniq_tag=vUQp069oHvFdl53YEIazs3pF7fOw878aGjBuzV4dDss&type=album)
-![Completed the course «Modern iOS tools»](https://sun9-54.userapi.com/impg/v7oe-tkhr7xAveL4eVthefQhmt3Lz3bZ1AXEfw/wmzS80b69BY.jpg?size=720x512&quality=95&sign=c9ea63df8a3a1cba74d3280a899b7ec6&c_uniq_tag=8_e9EqAHSpXZIUA-F9ASGzcGnRkKtv8asN8TrLWFxYw&type=album)
-![Completed the course «Framework Combine»](https://sun9-63.userapi.com/impg/N-xVuGa-h0AHh0EqynpjnZizE2CG9F3pzVoBGw/ZT9m1ImV6uQ.jpg?size=719x511&quality=95&sign=3dfa17cf3455cadce7d8c1913f4b6c88&c_uniq_tag=IuugYGhq9SRK0o3QUFZBxPiA6jRLddxfaltiz_gxmXo&type=album)
-![Completed the course «Practical targeting for students»](https://sun9-13.userapi.com/impg/pynD8q_4VGxjVWotUoY_A1otB3w4Mrk89RD2dQ/LZNFBVFmfjc.jpg?size=720x511&quality=95&sign=62ebd3b2c050e684c544c8f6550809ae&c_uniq_tag=4CrxCnuF41vw8pYpLl96ECpZmH_o04tzZ0yXCYnmuTA&type=album)
-![Completed the course «Git from A to Z»](https://sun9-13.userapi.com/impg/u-InrMxWo2LpcM8LxEGrwof2sadq8JaE5Z3uzw/1ivMOU3LBXA.jpg?size=720x510&quality=95&sign=ad4ff7c6db495c26b5f8fc5d5d69a534&c_uniq_tag=-2mvSD401NffEXF5xkC-EpSBsn8OhUUm2u_LM00rldw&type=album)
-![Completed the course «Законное индивидуальное предпринимательство и фриланс»](https://sun9-51.userapi.com/impg/naoosKSrQLz0zAW1iSiMwifwf82bvW3MdZB-GQ/41CZ0l_ps8c.jpg?size=719x511&quality=95&sign=cfc4af28080b25d78dab8446fa3f1657&c_uniq_tag=_DZbSGdT1ndJtgkrPGbfpmxF-t4XBZyEXR8Z3ka5Xoc&type=album)
-##
-GeekBrains Affiliate Link
+<img align="left" src="https://sun9-80.userapi.com/impg/LNrQ2gMj4ZLbTRDXfmE47NgRJmugX493JBi-BA/f-V3QV52ktU.jpg?size=722x513&quality=95&sign=4813e8bbe1509363fa3c52f3f5da1346&c_uniq_tag=1S8Oxh43AFdMyrEg2y8EBF7RmyMj_WzfpShoqkBMRt4&type=album" width="31%"/>
+
+<img align="left" src="https://sun9-25.userapi.com/impg/6S-V0GzMZHQvOMqNeu-_qzhKpRwYdRUO5k3Lcw/kn6qhCg6E7w.jpg?size=722x515&quality=95&sign=ccf606c772a7de6581ca9a5c3d5382a9&c_uniq_tag=tB4GIlOxkEfvU7Dr6-LilHsjEYjCFQ4btT6uQyull5o&type=album" width="31%"/>
+<img align="left" src="https://sun9-66.userapi.com/impg/pjmsOiPsVrzQRWeovmA1O80MU5FN_KSi9dWTQQ/P0fOnwwYjtY.jpg?size=722x513&quality=95&sign=9f99ddcad4a72e630fc6a4ce3aed3df1&c_uniq_tag=g2xSwBsG7rprhvxkvfzQw2-txxTrDbdvOwmfOVZWzbU&type=album" width="31%"/>
+<img align="left" src="https://sun9-46.userapi.com/impg/bmMigch7J_ROpYgVp-ko6NDzaG1DXxZfQqMg5A/72qpkMRnSOE.jpg?size=721x512&quality=95&sign=7565f7da41629e5606539a60039ba460&c_uniq_tag=hUZ6yNQkqPgRasudqyD-Ys1wkF4wc36D9TIfqBIJ4ts&type=album" width="31%"/>
+<img align="left" src="https://sun9-22.userapi.com/impg/-qciBJubjBTf9wN28BqwI7M973vfrN1axg-9ww/welMTOTXDuM.jpg?size=721x512&quality=95&sign=a3f7dd234a8a66275880fcfe53577535&c_uniq_tag=x2Oujg47l3mXMFaU-qf88QpvEinR3VNC_9a2sspPxMo&type=album" width="31%"/>
+<p>
+<p><p><p><p align="centre"><h4 align="centre"><samp><p><p> . . . . . . . . . . . . . . . . . . . . . . . . . . <p>
+<p>
+<img align="left" src="https://sun9-56.userapi.com/impg/QC6_aOu-gLXsJXQSM2VBLWYyBmxFrWL9VhUpWg/K202dUgHzYw.jpg?size=722x513&quality=95&sign=51c4b0d4023f7b85ceb5bcc1b780dbc1&c_uniq_tag=vUQp069oHvFdl53YEIazs3pF7fOw878aGjBuzV4dDss&type=album" width="31%"/>
+<img align="left" src="https://sun9-54.userapi.com/impg/v7oe-tkhr7xAveL4eVthefQhmt3Lz3bZ1AXEfw/wmzS80b69BY.jpg?size=720x512&quality=95&sign=c9ea63df8a3a1cba74d3280a899b7ec6&c_uniq_tag=8_e9EqAHSpXZIUA-F9ASGzcGnRkKtv8asN8TrLWFxYw&type=album" width="31%"/>
+<img align="left" src="https://sun9-63.userapi.com/impg/N-xVuGa-h0AHh0EqynpjnZizE2CG9F3pzVoBGw/ZT9m1ImV6uQ.jpg?size=719x511&quality=95&sign=3dfa17cf3455cadce7d8c1913f4b6c88&c_uniq_tag=IuugYGhq9SRK0o3QUFZBxPiA6jRLddxfaltiz_gxmXo&type=album" width="31%"/>
+<p>
+<p><p><p><p align="centre"><h4 align="centre"><samp><p><p> . . . . . . . . . . . . . <p>
+<p>
+<img align="left" src="https://sun9-13.userapi.com/impg/pynD8q_4VGxjVWotUoY_A1otB3w4Mrk89RD2dQ/LZNFBVFmfjc.jpg?size=720x511&quality=95&sign=62ebd3b2c050e684c544c8f6550809ae&c_uniq_tag=4CrxCnuF41vw8pYpLl96ECpZmH_o04tzZ0yXCYnmuTA&type=album" width="31%"/>
+<img align="left" src="https://sun9-13.userapi.com/impg/u-InrMxWo2LpcM8LxEGrwof2sadq8JaE5Z3uzw/1ivMOU3LBXA.jpg?size=720x510&quality=95&sign=ad4ff7c6db495c26b5f8fc5d5d69a534&c_uniq_tag=-2mvSD401NffEXF5xkC-EpSBsn8OhUUm2u_LM00rldw&type=album" width="31%"/>
+<img align="left" src="https://sun9-51.userapi.com/impg/naoosKSrQLz0zAW1iSiMwifwf82bvW3MdZB-GQ/41CZ0l_ps8c.jpg?size=719x511&quality=95&sign=cfc4af28080b25d78dab8446fa3f1657&c_uniq_tag=_DZbSGdT1ndJtgkrPGbfpmxF-t4XBZyEXR8Z3ka5Xoc&type=album" width="31%"/>
+
+<p align="centre"><h4 align="centre"><samp><p><p> . . . . . . . . . . . . . <p>
+
+
+ <p align="center"><h4 align="center"><samp>  GeekBrains Affiliate Link
+
+<samp><b>  </b>
 
 https://gb.ru/go/jGjf0X
 
 https://gb.ru/go/asqb0d
 
+https://gb.ru/go/Ascm4q
 
+https://gb.ru/go/bU-~oO
+
+https://gb.ru/go/ksEKsT
+
+https://gb.ru/go/0J1APX
+
+https://gb.ru/go/pOS~us
+
+https://gb.ru/go/w-fPO3
+
+https://gb.ru/go/mv5sIz
+
+https://gb.ru/go/iy7qW6
+
+https://gb.ru/go/jgQJCk
+
+https://gb.ru/go/3EfTEa
 
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
