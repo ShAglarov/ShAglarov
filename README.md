@@ -94,34 +94,23 @@
 ##
 <h3><b><samp>Professional Development Certificates</samp></b></h3>
 
+![Completed the course «Interactive course on the basics of programming»](https://sun9-46.userapi.com/impg/bmMigch7J_ROpYgVp-ko6NDzaG1DXxZfQqMg5A/zYQ1kTmJzq4.jpg?size=721x512&quality=95&sign=0f79c8a7bd957a88f1a48d4822d03f88&c_uniq_tag=NLyfh0C1ETZON1qEve7pYVdzytWlIzty_vI1usyZuAA&type=album)
+![Completed the course «GeekBrains Student Introductory Course»](https://sun9-80.userapi.com/impg/LNrQ2gMj4ZLbTRDXfmE47NgRJmugX493JBi-BA/f-V3QV52ktU.jpg?size=722x513&quality=95&sign=4813e8bbe1509363fa3c52f3f5da1346&c_uniq_tag=1S8Oxh43AFdMyrEg2y8EBF7RmyMj_WzfpShoqkBMRt4&type=album)
+![Completed the course «Swift Language»](https://sun9-25.userapi.com/impg/6S-V0GzMZHQvOMqNeu-_qzhKpRwYdRUO5k3Lcw/kn6qhCg6E7w.jpg?size=722x515&quality=95&sign=ccf606c772a7de6581ca9a5c3d5382a9&c_uniq_tag=tB4GIlOxkEfvU7Dr6-LilHsjEYjCFQ4btT6uQyull5o&type=album)
+![Completed the course «IOS application user interface»](https://sun9-66.userapi.com/impg/pjmsOiPsVrzQRWeovmA1O80MU5FN_KSi9dWTQQ/P0fOnwwYjtY.jpg?size=722x513&quality=95&sign=9f99ddcad4a72e630fc6a4ce3aed3df1&c_uniq_tag=g2xSwBsG7rprhvxkvfzQw2-txxTrDbdvOwmfOVZWzbU&type=album)
+![Completed the course «Client-server iOS-applications»](https://sun9-46.userapi.com/impg/bmMigch7J_ROpYgVp-ko6NDzaG1DXxZfQqMg5A/72qpkMRnSOE.jpg?size=721x512&quality=95&sign=7565f7da41629e5606539a60039ba460&c_uniq_tag=hUZ6yNQkqPgRasudqyD-Ys1wkF4wc36D9TIfqBIJ4ts&type=album)
+![Completed the course «Performance of iOS applications»](https://sun9-22.userapi.com/impg/-qciBJubjBTf9wN28BqwI7M973vfrN1axg-9ww/welMTOTXDuM.jpg?size=721x512&quality=95&sign=a3f7dd234a8a66275880fcfe53577535&c_uniq_tag=x2Oujg47l3mXMFaU-qf88QpvEinR3VNC_9a2sspPxMo&type=album)
+![Completed the course «Professional iOS-development on Swift»](https://sun9-56.userapi.com/impg/QC6_aOu-gLXsJXQSM2VBLWYyBmxFrWL9VhUpWg/K202dUgHzYw.jpg?size=722x513&quality=95&sign=51c4b0d4023f7b85ceb5bcc1b780dbc1&c_uniq_tag=vUQp069oHvFdl53YEIazs3pF7fOw878aGjBuzV4dDss&type=album)
+![Completed the course «Modern iOS tools»](https://sun9-54.userapi.com/impg/v7oe-tkhr7xAveL4eVthefQhmt3Lz3bZ1AXEfw/wmzS80b69BY.jpg?size=720x512&quality=95&sign=c9ea63df8a3a1cba74d3280a899b7ec6&c_uniq_tag=8_e9EqAHSpXZIUA-F9ASGzcGnRkKtv8asN8TrLWFxYw&type=album)
+![Completed the course «Framework Combine»](https://sun9-63.userapi.com/impg/N-xVuGa-h0AHh0EqynpjnZizE2CG9F3pzVoBGw/ZT9m1ImV6uQ.jpg?size=719x511&quality=95&sign=3dfa17cf3455cadce7d8c1913f4b6c88&c_uniq_tag=IuugYGhq9SRK0o3QUFZBxPiA6jRLddxfaltiz_gxmXo&type=album)
+![Completed the course «Practical targeting for students»](https://sun9-13.userapi.com/impg/pynD8q_4VGxjVWotUoY_A1otB3w4Mrk89RD2dQ/LZNFBVFmfjc.jpg?size=720x511&quality=95&sign=62ebd3b2c050e684c544c8f6550809ae&c_uniq_tag=4CrxCnuF41vw8pYpLl96ECpZmH_o04tzZ0yXCYnmuTA&type=album)
+![Completed the course «Git from A to Z»](https://sun9-13.userapi.com/impg/u-InrMxWo2LpcM8LxEGrwof2sadq8JaE5Z3uzw/1ivMOU3LBXA.jpg?size=720x510&quality=95&sign=ad4ff7c6db495c26b5f8fc5d5d69a534&c_uniq_tag=-2mvSD401NffEXF5xkC-EpSBsn8OhUUm2u_LM00rldw&type=album)
+![Completed the course «Законное индивидуальное предпринимательство и фриланс»](https://sun9-51.userapi.com/impg/naoosKSrQLz0zAW1iSiMwifwf82bvW3MdZB-GQ/41CZ0l_ps8c.jpg?size=719x511&quality=95&sign=cfc4af28080b25d78dab8446fa3f1657&c_uniq_tag=_DZbSGdT1ndJtgkrPGbfpmxF-t4XBZyEXR8Z3ka5Xoc&type=album)
+##
 GeekBrains Affiliate Link
 
-https://github.com/ShAglarov
-![Completed the course «Interactive course on the basics of programming»](https://gbcdn.mrgcdn.ru/uploads/assets/certificates/backgrounds/old/course_tmpl-04d5623f5d0fa83531e537774bf68eee33dd16e430c43578a4161f93df3ce556.png)
-https://github.com/ShAglarov
-![Completed the course «GeekBrains Student Introductory Course»](https://gbcdn.mrgcdn.ru/uploads/assets/certificates/backgrounds/old/course_tmpl-04d5623f5d0fa83531e537774bf68eee33dd16e430c43578a4161f93df3ce556.png)
-https://github.com/ShAglarov
-![Completed the course «Swift Language»](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000)
-https://github.com/ShAglarov
-![Completed the course «IOS application user interface»](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-https://github.com/ShAglarov
-![Completed the course «Client-server iOS-applications»](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-https://github.com/ShAglarov
-![Completed the course «Performance of iOS applications»](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-https://github.com/ShAglarov
-![Completed the course «Professional iOS-development on Swift»](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-https://github.com/ShAglarov
-![Completed the course «Modern iOS tools»](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-https://github.com/ShAglarov
-![Completed the course «Framework Combine»](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-https://github.com/ShAglarov
-![Completed the course «Practical targeting for students»](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-https://github.com/ShAglarov
-![Completed the course «Git from A to Z»](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
-https://github.com/ShAglarov
-![Completed the course «Законное индивидуальное предпринимательство и фриланс»](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+https://gb.ru/go/jGjf0X
 
-##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
 ![Swift](https://media1.giphy.com/media/9Ods1tgIQ91LjfhB0n/giphy.gif?cid=ecf05e475ebd59o8vvxyxgj8b59otqki3y5351k7l24h9lz6&ep=v1_stickers_search&rid=giphy.gif&ct=s)
