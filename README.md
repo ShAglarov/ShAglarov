@@ -111,6 +111,10 @@ GeekBrains Affiliate Link
 
 https://gb.ru/go/jGjf0X
 
+https://gb.ru/go/asqb0d
+
+
+
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
 ![Swift](https://media1.giphy.com/media/9Ods1tgIQ91LjfhB0n/giphy.gif?cid=ecf05e475ebd59o8vvxyxgj8b59otqki3y5351k7l24h9lz6&ep=v1_stickers_search&rid=giphy.gif&ct=s)
