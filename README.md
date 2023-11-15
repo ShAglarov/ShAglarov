@@ -135,6 +135,10 @@
 
 ![Swift](https://media1.giphy.com/media/9Ods1tgIQ91LjfhB0n/giphy.gif?cid=ecf05e475ebd59o8vvxyxgj8b59otqki3y5351k7l24h9lz6&ep=v1_stickers_search&rid=giphy.gif&ct=s)
 ![GIT App](https://media1.giphy.com/media/iJWXxAr2Za6EtN2Row/200w.webp?cid=ecf05e47bqvtcqxz7g91jvfmuxocdcrq9jwr7hxhrv4krcat&ep=v1_gifs_related&rid=200w.webp&ct=s)
+![GIT App](https://gb.ru/channels/base/images/about/about-decor-it.png)
+![GIT App](https://gb.ru/channels/programs/images/logo/ios_sdk.png)
+![GIT App](https://gb.ru/channels/programs/images/logo/xcode.svg)
+![GIT App](https://gb.ru/channels/programs/images/logo/swift.png)
 
 <span>
     
