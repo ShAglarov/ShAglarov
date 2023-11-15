@@ -26,9 +26,7 @@
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://media3.giphy.com/media/DUXzmdy2naQa0UTtNn/giphy.gif?cid=ecf05e47l75ma7ur7bfsyutpiqyjbx3e7n1xry8tm1f4judw&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 </a>
 <br><br>
-
 ## <p align="center"><h4 align="center"><samp> 😄 iOS Developer - Shamil </samp></h4></p>
-
 <div>
 <img align="right" src="https://media3.giphy.com/media/5xaOcLwijfQN4bm2LV6/giphy.gif?cid=ecf05e47wf343sqag540udb0eo45duqixossgv70a3yhiw2z&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="40%"/>
   <br>
@@ -38,17 +36,43 @@
 </div>
 
 ##
-- 👷 <samp><b>🌟 Overview:
-Motivated iOS Developer with experience in MVVM, MVC, MVP architectures, and Coordinator pattern, along with proficient knowledge of Swift. Skilled in applying SOLID design patterns and experienced in working with Delegates and Observer pattern. </b>
-- 👨‍🎓 <samp><b>🎓 Education: </b>
+👷 <samp><b>🌟 Overview: </b>
+- Motivated iOS Developer with experience in MVVM, MVC, MVP architectures, and Coordinator pattern, along with proficient knowledge of Swift. Skilled in applying SOLID design patterns and experienced in working with Delegates and Observer pattern. </b>
+
+👨‍🎓 <samp><b>🎓 Education: </b>
 - 🔭 <samp>Bachelor's Degree, DGPU - 2012
 - 🧑🏽 <samp><b>Professional Development, ITMO-Saint Petersburg - 2012</b>
 - 🥇 <samp>Refresher Courses, GeekBrains - 2023
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-- ♟ <samp>I play a lot of chess, and I am 1400-1500 rated on chess.com.
+
+👨‍🎓 <samp><b>💻 Technical Skills: </b>
+- 💼 <samp>Programming Languages: Swift
+- 💬 <samp>Architectures: MVVM, MVC, MVP, Coordinator
+- 🤔 <samp>Design Patterns: SOLID, Delegate, Observer
+- ⚡ <samp>Fun fact: Libraries and Frameworks: UIKit
+- ♟ <samp>Interface Automation: SnapKit
+- 💼 <samp>Development Tools: Xcode, Interface Builder
+- 💬 <samp>Dependency Management: CocoaPods
+- 🤔 <samp>Version Control: Git, GitHub
+- ⚡ <samp>Problem Analysis and Resolution: Debugging, Performance Optimization
+- ♟ <samp>Interface Design: User Interface (UI), Auto Layout
+
+🚀 <samp><b> Projects: </b>
+Project: FollowNature
+- 💬 <samp>Description: A mobile app for photographing and studying various plants, featuring an intuitive interface.
+- 💬 <samp>Technologies: Swift, MVVM, UIKit, Coordinator
+
+👤 <samp><b> Personal Qualities: </b>
+- 💬 <samp>Eagerness for learning and self-development
+- 💬 <samp>Communication skills and teamwork
+- 💬 <samp>Responsibility and result-oriented
+- 💬 <samp>Analytical thinking and problem-solving ability
+
+💡 <samp><b>  Goal: </b>
+- 💬 <samp>To continue developing skills in iOS development, actively participate in projects, and contribute to the creation of high-quality mobile applications.
+
+✨ <samp><b> Additional Information: </b>
+- 💬 <samp>Ready for rapid learning and adaptation to new technologies and tasks.
+- 💬 <samp>Open to feedback and willing to improve skills.
 </div>
 
 ##
