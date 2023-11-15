@@ -57,37 +57,37 @@
 - ♟ <samp>Interface Design: User Interface (UI), Auto Layout
 
 🚀 <samp><b> Projects: </b>
-Project: FollowNature
-- 💬 <samp>Description: A mobile app for photographing and studying various plants, featuring an intuitive interface.
-- 💬 <samp>Technologies: Swift, MVVM, UIKit, Coordinator
+🌿 Project: FollowNature
+- 💡 <samp>Description: A mobile app for photographing and studying various plants, featuring an intuitive interface.
+- 🛠 <samp>Technologies: Swift, MVVM, UIKit, Coordinator
 
 👤 <samp><b> Personal Qualities: </b>
-- 💬 <samp>Eagerness for learning and self-development
-- 💬 <samp>Communication skills and teamwork
-- 💬 <samp>Responsibility and result-oriented
-- 💬 <samp>Analytical thinking and problem-solving ability
+- 📚 <samp>Eagerness for learning and self-development
+- 🤝 <samp>Communication skills and teamwork
+- 🎯 <samp>Responsibility and result-oriented
+- 🧠 <samp>Analytical thinking and problem-solving ability
 
 💡 <samp><b>  Goal: </b>
-- 💬 <samp>To continue developing skills in iOS development, actively participate in projects, and contribute to the creation of high-quality mobile applications.
+- 🔍 <samp>To continue developing skills in iOS development, actively participate in projects, and contribute to the creation of high-quality mobile applications.
 
 ✨ <samp><b> Additional Information: </b>
-- 💬 <samp>Ready for rapid learning and adaptation to new technologies and tasks.
-- 💬 <samp>Open to feedback and willing to improve skills.
+- 🌱 <samp>Ready for rapid learning and adaptation to new technologies and tasks.
+- 🔄 <samp>Open to feedback and willing to improve skills.
 
 ##
 
 🏢 <samp><b> Experiences: </b>
-- 💬 <samp>Экосистема Альфа - A high-tech company specializing in creating startups and projects (Websites, iOS, Android, AI).
+- 🌐 <samp>Экосистема Альфа - A high-tech company specializing in creating startups and projects (Websites, iOS, Android, AI).
 
 - 🏢 <samp><b> Our Projects: </b>
-- 💬 <samp>Sarafan: Grocery delivery from different chain stores. Features: price comparison, promotional items, unified delivery. (Website, Responsive, iOS, Android) sarawan.ru.
-- 💬 <samp>Sarafan-Delivery: Own app for couriers with the possibility to connect various clients. (Website, Responsive, iOS, Android).
-- 💬 <samp>Sarafan-BADs (Herbal): Marketplace for dietary supplement producers. (Website, Responsive, iOS, Android).
-- 💬 <samp>Sarafan Supplier – MegaMarketplace: For manufacturers. (Website, Responsive, iOS, Android).
-- 💬 <samp>Doct24 Telemedicine: Online consultation service between doctors and patients. (Website, Responsive, iOS, Android) doct24.com.
-- 💬 <samp>Doct24 Diagnostics: Service for conducting research descriptions by doctors with AI technology. (Website, Responsive, iOS, Android).
-- 💬 <samp>Doct24 Online Hospital: Service for assisting with hospitalization in various medical institutions. (Website, Responsive, iOS, Android).
-- 💬 <samp>Doct24 Consilium: Online medical council service using video. (Website, Responsive, iOS, Android).
+- 🛒 <samp>Sarafan: Grocery delivery from different chain stores. Features: price comparison, promotional items, unified delivery. (Website, Responsive, iOS, Android) sarawan.ru.
+- 🚚 <samp>Sarafan-Delivery: Own app for couriers with the possibility to connect various clients. (Website, Responsive, iOS, Android).
+- 🌿 <samp>Sarafan-BADs (Herbal): Marketplace for dietary supplement producers. (Website, Responsive, iOS, Android).
+- 🏭 <samp>Sarafan Supplier – MegaMarketplace: For manufacturers. (Website, Responsive, iOS, Android).
+- 🩺 <samp>Doct24 Telemedicine: Online consultation service between doctors and patients. (Website, Responsive, iOS, Android) doct24.com.
+- 🔬 <samp>Doct24 Diagnostics: Service for conducting research descriptions by doctors with AI technology. (Website, Responsive, iOS, Android).
+- 🏥 <samp>Doct24 Online Hospital: Service for assisting with hospitalization in various medical institutions. (Website, Responsive, iOS, Android).
+- 🩹 <samp>Doct24 Consilium: Online medical council service using video. (Website, Responsive, iOS, Android).
 
 </div>
 
