@@ -130,26 +130,6 @@ Project: FollowNature
 <!-- BLOG-POST-LIST:START -->
 - [What you need to know as a Hardware and IoT Engineer?? How to Begin...](https://medium.com/@amandewatnitrr/what-you-need-to-know-as-a-hardware-and-iot-engineer-how-to-begin-f85ef44b06a?source=rss-e69b5e669025------2)
 <!-- BLOG-POST-LIST:END -->
-
-  
 <hr>
-  
-<br>
 
-
- ### 🏆 GitHub Profile Trophy:
- <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img width=800 src="https://github-profile-trophy.vercel.app/?username=amandewatnitrr&column=8&theme=onedark&no-frame=true&no-bg=true"/>
- </a>
- </p>
-
-### 🔖 Holopins:
-  
-[![@amandewatnitrr's Holopin board](https://holopin.io/api/user/board?user=amandewatnitrr)](https://holopin.io/@amandewatnitrr)
-
-<br>  
-  
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
-  
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
