@@ -92,6 +92,21 @@
 </div>
 
 ##
+<h3><b><samp>Professional Development Certificates</samp></b></h3>
+
+![Completed the course «Interactive course on the basics of programming»](https://gbcdn.mrgcdn.ru/uploads/assets/certificates/backgrounds/old/course_tmpl-04d5623f5d0fa83531e537774bf68eee33dd16e430c43578a4161f93df3ce556.png)
+![Completed the course «GeekBrains Student Introductory Course»](https://gbcdn.mrgcdn.ru/uploads/assets/certificates/backgrounds/old/course_tmpl-04d5623f5d0fa83531e537774bf68eee33dd16e430c43578a4161f93df3ce556.png)
+![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+
+##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
 ![Swift](https://media1.giphy.com/media/9Ods1tgIQ91LjfhB0n/giphy.gif?cid=ecf05e475ebd59o8vvxyxgj8b59otqki3y5351k7l24h9lz6&ep=v1_stickers_search&rid=giphy.gif&ct=s)
