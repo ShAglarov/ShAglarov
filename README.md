@@ -73,26 +73,22 @@ Project: FollowNature
 ✨ <samp><b> Additional Information: </b>
 - 💬 <samp>Ready for rapid learning and adaptation to new technologies and tasks.
 - 💬 <samp>Open to feedback and willing to improve skills.
-</div>
 
 ##
 
-<div>
-<h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <b>Edison Engineer @ GE Healthcare</b><br>
-- 🔬 <b>Ex-Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)</b><br>
-- 🕵🏻 <b>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May 2020 - Aug 2020)</b><br>
-- 👨🏾‍💻 <b>Embedded IoT Intern at SVA Robotics(Sep 2020 - Oct 2020)</b><br>
-- ✍🏻 Ex-Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)<br>
-- 👨🏻‍💻 Ex-Head Coordinator at Turing Club of Programmers, NIT Raipur.<br>
-- ☄️ Girlscript Ireland - Training - Game Development(August 2020)<br>
-- ☁ 30 Days of Google Cloud(Cloud Engnieering Track)<br>
-- 👨🏻‍🏫 Mentor at SparkDev UPE FIU (2021)<br>
-- 👨🏻‍🏫 Mentor and Judge at HackOdisha'21<br>
-- 👨🏻‍🏫 Mentor at ShellHacks'21<br>
-- 👨🏻‍🏫 Mentor at HackNITR 3.0<br>
-- 👨🏻‍🏫 Mentor at HackCBS 4.0<br>
-- 👷🏻 Lead Organiser and Speaker at Octafest'21 and Trek The Hill'22<br>
+🏢 <samp><b> Experiences: </b>
+- 💬 <samp>Экосистема Альфа - A high-tech company specializing in creating startups and projects (Websites, iOS, Android, AI).
+
+- 🏢 <samp><b> Our Projects: </b>
+- 💬 <samp>Sarafan: Grocery delivery from different chain stores. Features: price comparison, promotional items, unified delivery. (Website, Responsive, iOS, Android) sarawan.ru.
+- 💬 <samp>Sarafan-Delivery: Own app for couriers with the possibility to connect various clients. (Website, Responsive, iOS, Android).
+- 💬 <samp>Sarafan-BADs (Herbal): Marketplace for dietary supplement producers. (Website, Responsive, iOS, Android).
+- 💬 <samp>Sarafan Supplier – MegaMarketplace: For manufacturers. (Website, Responsive, iOS, Android).
+- 💬 <samp>Doct24 Telemedicine: Online consultation service between doctors and patients. (Website, Responsive, iOS, Android) doct24.com.
+- 💬 <samp>Doct24 Diagnostics: Service for conducting research descriptions by doctors with AI technology. (Website, Responsive, iOS, Android).
+- 💬 <samp>Doct24 Online Hospital: Service for assisting with hospitalization in various medical institutions. (Website, Responsive, iOS, Android).
+- 💬 <samp>Doct24 Consilium: Online medical council service using video. (Website, Responsive, iOS, Android).
+
 </div>
 
 ##
