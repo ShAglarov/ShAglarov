@@ -32,6 +32,7 @@
   <br>
  📞 <samp><b> Contact Information:</b>  <br>
  Email:     shamil.aglarov@gmail.com</b>  <br>
+            shamil.aglarov@icloud.com</b>  <br>
  Phone:     +79882088886 (WhatsApp only)</b>  <br>
 </div>
 
