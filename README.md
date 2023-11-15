@@ -137,8 +137,8 @@
 ![GIT App](https://media1.giphy.com/media/iJWXxAr2Za6EtN2Row/200w.webp?cid=ecf05e47bqvtcqxz7g91jvfmuxocdcrq9jwr7hxhrv4krcat&ep=v1_gifs_related&rid=200w.webp&ct=s)
 ![GIT App](https://gb.ru/channels/base/images/about/about-decor-it.png)
 ![GIT App](https://gb.ru/channels/programs/images/logo/ios_sdk.png)
-![GIT App](https://gb.ru/channels/programs/images/logo/xcode.svg)
-![GIT App](https://gb.ru/channels/programs/images/logo/swift.png)
+<!--![GIT App](https://gb.ru/channels/programs/images/logo/xcode.svg)
+[GIT App](https://gb.ru/channels/programs/images/logo/swift.png) -->
 
 <span>
     
