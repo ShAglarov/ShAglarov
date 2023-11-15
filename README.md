@@ -28,7 +28,7 @@
 <br><br>
 ## <p align="center"><h4 align="center"><samp> 😄 iOS Developer - Shamil </samp></h4></p>
 <div>
-<img align="right" src="https://media3.giphy.com/media/5xaOcLwijfQN4bm2LV6/giphy.gif?cid=ecf05e47wf343sqag540udb0eo45duqixossgv70a3yhiw2z&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="40%"/>
+<img align="right" src="https://gb.ru/channels/base/images/about/about-decor-it.png" width="40%"/>
   <br>
  📞 <samp><b> Contact Information:</b>  <br>
  Email:     shamil.aglarov@gmail.com</b>  <br>
@@ -134,8 +134,9 @@
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
 ![Swift](https://media1.giphy.com/media/9Ods1tgIQ91LjfhB0n/giphy.gif?cid=ecf05e475ebd59o8vvxyxgj8b59otqki3y5351k7l24h9lz6&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+<img align="right" src="https://media3.giphy.com/media/5xaOcLwijfQN4bm2LV6/giphy.gif?cid=ecf05e47wf343sqag540udb0eo45duqixossgv70a3yhiw2z&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="40%"/>
 ![GIT App](https://media1.giphy.com/media/iJWXxAr2Za6EtN2Row/200w.webp?cid=ecf05e47bqvtcqxz7g91jvfmuxocdcrq9jwr7hxhrv4krcat&ep=v1_gifs_related&rid=200w.webp&ct=s)
-![GIT App](https://gb.ru/channels/base/images/about/about-decor-it.png)
+![GIT App](https://media3.giphy.com/media/5xaOcLwijfQN4bm2LV6/giphy.gif?cid=ecf05e47wf343sqag540udb0eo45duqixossgv70a3yhiw2z&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 ![GIT App](https://gb.ru/channels/programs/images/logo/ios_sdk.png)
 <!--![GIT App](https://gb.ru/channels/programs/images/logo/xcode.svg)
 [GIT App](https://gb.ru/channels/programs/images/logo/swift.png) -->
