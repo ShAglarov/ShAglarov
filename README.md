@@ -108,24 +108,31 @@
 <img src="https://sun9-63.userapi.com/impg/N-xVuGa-h0AHh0EqynpjnZizE2CG9F3pzVoBGw/ZT9m1ImV6uQ.jpg?size=719x511&quality=95&sign=3dfa17cf3455cadce7d8c1913f4b6c88&c_uniq_tag=IuugYGhq9SRK0o3QUFZBxPiA6jRLddxfaltiz_gxmXo&type=album" width="31%"/>
 <img src="https://sun9-13.userapi.com/impg/pynD8q_4VGxjVWotUoY_A1otB3w4Mrk89RD2dQ/LZNFBVFmfjc.jpg?size=720x511&quality=95&sign=62ebd3b2c050e684c544c8f6550809ae&c_uniq_tag=4CrxCnuF41vw8pYpLl96ECpZmH_o04tzZ0yXCYnmuTA&type=album" width="31%"/>
 <img src="https://sun9-13.userapi.com/impg/u-InrMxWo2LpcM8LxEGrwof2sadq8JaE5Z3uzw/1ivMOU3LBXA.jpg?size=720x510&quality=95&sign=ad4ff7c6db495c26b5f8fc5d5d69a534&c_uniq_tag=-2mvSD401NffEXF5xkC-EpSBsn8OhUUm2u_LM00rldw&type=album" width="31%"/>
+<img src="https://sun6-22.vkuserphoto.ru/impg/3UTqkisK7GTg8h9-RMeDtx-tSOHEE7spI8ChvA/FORtCwYgrSc.jpg?size=604x427&quality=95&sign=aba0d7ebb63c0f182c7c7c917a638b4b&c_uniq_tag=VrH4p_SISsI2fNP_ODtToPEOsWBLfP7bzGeJb7m-kGM&type=album" width="31%"/>
+<img src="https://sun9-11.vkuserphoto.ru/impg/jV_lO7iz8b2IYthO6CvXecDGUI1sOa8WHXc97Q/Jgx5MJuFMjs.jpg?size=1594x1132&quality=95&sign=53a5c8bdfa609147ba1624daf14d0342&type=album" width="31%"/>
+<img src="https://sun9-12.vkuserphoto.ru/impg/ZJuXFbUwVh3IscYz6Kn5I_8ZnN4_jL-8T-EThQ/vD7hNtkczXA.jpg?size=1594x1132&quality=95&sign=b2d93eca9c8ed00c545ef1200289885e&type=album" width="31%"/>
 <img src="https://sun9-51.userapi.com/impg/naoosKSrQLz0zAW1iSiMwifwf82bvW3MdZB-GQ/41CZ0l_ps8c.jpg?size=719x511&quality=95&sign=cfc4af28080b25d78dab8446fa3f1657&c_uniq_tag=_DZbSGdT1ndJtgkrPGbfpmxF-t4XBZyEXR8Z3ka5Xoc&type=album" width="31%"/>
 
 <!-- сертификаты сюда -->
 
 ## GeekBrains Affiliate Link
 
-[Completed the course «Interactive course on the basics of programming»](https://gb.ru/go/jGjf0X)  
-[Completed the course «GeekBrains Student Introductory Course»](https://gb.ru/go/asqb0d)  
-[Completed the course «Swift Language»](https://gb.ru/go/Ascm4q)  
-[Completed the course «IOS application user interface»](https://gb.ru/go/bU-~oO)  
-[Completed the course «Client-server iOS-applications»](https://gb.ru/go/ksEKsT)  
-[Completed the course «Performance of iOS applications»](https://gb.ru/go/0J1APX)  
-[Completed the course «Professional iOS-development on Swift»](https://gb.ru/go/pOS~us)  
-[Completed the course «Modern iOS tools»](https://gb.ru/go/w-fPO3)  
-[Completed the course «Framework Combine»](https://gb.ru/go/mv5sIz)  
-[Completed the course «Practical targeting for students»](https://gb.ru/go/iy7qW6)  
-[Completed the course «Git from A to Z»](https://gb.ru/go/jgQJCk)  
-[Completed the course «Законное индивидуальное предпринимательство и фриланс»](https://gb.ru/go/3EfTEa)
+- [Completed the course «Interactive course on the basics of programming»](https://gb.ru/go/jGjf0X)
+- [Completed the course «GeekBrains Student Introductory Course»](https://gb.ru/go/asqb0d)
+- [Completed the course «Swift Language»](https://gb.ru/go/Ascm4q)
+- [Completed the course «IOS application user interface»](https://gb.ru/go/bU-~oO)
+- [Completed the course «Client-server iOS-applications»](https://gb.ru/go/ksEKsT)
+- [Completed the course «Performance of iOS applications»](https://gb.ru/go/0J1APX)
+- [Completed the course «Professional iOS-development on Swift»](https://gb.ru/go/pOS~us)
+- [Completed the course «Modern iOS tools»](https://gb.ru/go/w-fPO3)
+- [Completed the course «Framework Combine»](https://gb.ru/go/mv5sIz)
+- [Completed the course «Practical targeting for students»](https://gb.ru/go/iy7qW6)
+- [Completed the course «Git from A to Z»](https://gb.ru/go/jgQJCk)
+- [Completed the course «Framework CoreData»](https://gb.ru/certificates/2617066.en)
+- [Completed the course «Architectures and design patterns in Swift»](https://gb.ru/certificates/2617004.en)
+- [Completed the course «Architectural patterns MVVM and VIPER in iOS development»](https://gb.ru/certificates/2617012.en)
+- [Completed the course «Legal Individual Entrepreneurship and Freelancing»](https://gb.ru/go/3EfTEa)
+
 
  <p align="center"><h4 align="center"><samp>  GeekBrains Affiliate Link
 
